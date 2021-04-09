@@ -21,6 +21,8 @@ public class MyServlet extends HttpServlet {
         }else if ("/student/select.do".equals(path)){
             select(req, resp);
         }
+
+        System.out.println("我改代码了！！！");
     }
 
     private void select(HttpServletRequest req, HttpServletResponse resp) {
