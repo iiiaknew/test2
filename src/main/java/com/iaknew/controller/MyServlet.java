@@ -23,6 +23,12 @@ public class MyServlet extends HttpServlet {
         }
 
         System.out.println("我改代码了！！！");
+        System.out.println("我改代码了！！！");
+        System.out.println("我改代码了！！！");
+        System.out.println("我改代码了！！！");
+        System.out.println("我改代码了！！！");
+        System.out.println("我改代码了！！！");
+        System.out.println("我改代码了！！！");
     }
 
     private void select(HttpServletRequest req, HttpServletResponse resp) {
